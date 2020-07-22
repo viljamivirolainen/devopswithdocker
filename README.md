@@ -12,8 +12,10 @@ my personal course submissions repository
 
 1.5
 
-## Todo next: 
 1.6
+
+## Todo next: 
+1.7 
 
 Link to course:
 https://devopswithdocker.com/
