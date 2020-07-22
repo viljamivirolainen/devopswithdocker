@@ -3,6 +3,7 @@ my personal course submissions repository
 
 ## Done:
 Part 1:
+
 1.1
 1.2
 1.3
