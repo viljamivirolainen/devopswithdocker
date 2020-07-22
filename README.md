@@ -10,7 +10,7 @@ my personal course submissions repository
 
 1.4
 
-## todo next 
+## Todo next: 
 1.5
 
 Link to course:
