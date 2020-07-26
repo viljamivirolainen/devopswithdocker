@@ -12,9 +12,10 @@ Part 1:
 1.6
 1.7 
 1.8
+1.9
 
 ## Todo next: 
-1.9
+1.10
 
 Link to course:
 https://devopswithdocker.com/
