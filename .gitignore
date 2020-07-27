@@ -1,2 +1,4 @@
 dockerized-project-test/
 frontend-example-docker/
+backend-example-docker/
+*.md

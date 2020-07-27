@@ -18,5 +18,18 @@ Part 1:
 ## Todo next: 
 1.11
 
+
+## Todo
+
+1.12
+1.13
+1.14
+1.15
+1.16
+1.17
+
+## Part 2
+
+## Part 3
 Link to course:
 https://devopswithdocker.com/
